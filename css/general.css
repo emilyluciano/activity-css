@@ -1,0 +1,66 @@
+/* CSS Document */
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #CCC;
+}
+
+h1 {
+    font-family: Times new roman, "Times New Roman", serif;
+    font-size:font-size: 3rem;
+    font-weight:normal;
+}
+
+p, 
+li {
+    font-size: 1rem; 
+    line-height: 1.5 rem;
+}
+
+h1 + p {
+    font-size: 1.5 5rem;
+}
+
+p strong {
+    color: #C47;
+}
+
+h1 strong {
+    color: #333366;
+}
+
+h2 strong {
+    color: #333366;    
+}
+
+h3 strong {
+    color: #C47;
+}
+
+h4 strong{
+    color: #C47;
+}
+
+em {
+    font-style: italic;
+}  
+
+img {
+border-style:solid;
+border-width:2px;
+}
+
+html{
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;
+}
+
+ul,
+ol{
+    background-color: #FFF;
+}
